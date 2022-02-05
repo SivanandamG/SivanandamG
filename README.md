@@ -2,6 +2,7 @@
 
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+
 ### hi, i'm [Sivanandam Gorantla](), a passionate full stack web developer.
 
 - 🌱 I’m currently learning **[React](https://reactjs.org/)**
@@ -11,6 +12,7 @@
 - 👨‍💻 Check out my projects **[here!](https://github.com/SivanandamG?tab=repositories)**
 
 - 📫 Feel free to connect with me here:<br><br>
+
 
 ### ☄Things I code with
 <p>
@@ -29,7 +31,6 @@
   <a href="">  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white" /><a/>
  <a href=""> <img alt="vs code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
   </p>
-<br/>
  
  
 ### Contact me
