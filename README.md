@@ -14,6 +14,8 @@ hi, i'm [Sivanandam Gorantla](), a passionate full stack web developer.
 
 - 📫 Feel free to connect with me here:<br><br>
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/93380641/152645546-98b08667-e823-4417-9fb7-59a7fbfdc1a3.gif" width="500" height="320" margin-top="120px" />
+
 ### Contact me
 
 [![](https://img.shields.io/badge/-Sivanandam%20Gorantla-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sivanandam-gorantla-878a511b7/)
