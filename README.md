@@ -12,13 +12,6 @@
 
 - 📫 Feel free to connect with me here:<br><br>
 
-### Contact me
-
-[![](https://img.shields.io/badge/-Sivanandam%20Gorantla-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sivanandam-gorantla-878a511b7/)
-[![](https://img.shields.io/badge/-gorantlasivanandam@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gorantlasivanandam@gmail.com)](mailto:gorantlasivanandam@gmail.com)
-[![](https://img.shields.io/badge/-SivanandamG-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SivanandamG)
-[![](https://img.shields.io/badge/-Sivanan17585739-%237289DA.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sivanan17585739)
-
 ### ☄Things I code with
 <p>
  <a href=""> <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -37,6 +30,15 @@
  <a href=""> <img alt="vs code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
   </p>
 <br/>
+ 
+ 
+### Contact me
+
+[![](https://img.shields.io/badge/-Sivanandam%20Gorantla-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sivanandam-gorantla-878a511b7/)
+[![](https://img.shields.io/badge/-gorantlasivanandam@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gorantlasivanandam@gmail.com)](mailto:gorantlasivanandam@gmail.com)
+[![](https://img.shields.io/badge/-SivanandamG-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SivanandamG)
+[![](https://img.shields.io/badge/-Sivanan17585739-%237289DA.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sivanan17585739)
+
 <!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  -->
   
