@@ -1,11 +1,11 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/93380641/152645546-98b08667-e823-4417-9fb7-59a7fbfdc1a3.gif" width="40%" height="auto"  />
 
-### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> -->
 
 
 ### hi, i'm [Sivanandam Gorantla](), a passionate full stack web developer.
 
-- 🌱 I’m currently learning **[React](https://reactjs.org/)**
+- 🌱 I’m currently learning **[SpringBoot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#getting-started)**
 
 - 👯 I’m looking to collaborate on **full stack web development projects!**
 
@@ -16,6 +16,8 @@
 
 ### ☄Things I code with
 <p>
+ <a href=""> <img alt="Spring" src="https://img.shields.io/badge/Spring-%234ea94b.svg?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+ <a href=""> <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-%234ea94b.svg?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>
  <a href=""> <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
  <a href=""> <img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
  <a href=""> <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
