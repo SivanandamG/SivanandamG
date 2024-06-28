@@ -5,7 +5,7 @@
 
 ### hi, i'm [Sivanandam Gorantla](), a passionate full stack web developer.
 
-- 🌱 I’m currently learning **[SpringBoot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#getting-started)**
+- 🌱 I’m currently working as software engineer at snapdeal **<a href=""> <img alt="Spring" src="https://img.shields.io/badge/Spring-%234ea94b.svg?style=for-the-badge&logo=Spring&logoColor=white"/></a>
 
 - 👯 I’m looking to collaborate on **full stack web development projects!**
 
