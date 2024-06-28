@@ -5,7 +5,7 @@
 
 ### hi, i'm [Sivanandam Gorantla](), a passionate full stack web developer.
 
-- 🌱 I’m currently working as software engineer at snapdeal **<a href=""> <img alt="Snapdeal" src=""/></a>
+- 🌱 I’m currently working as software engineer at snapdeal **<a href=""> <img alt="Snapdeal" src="https://m.snapdeal.com/"/></a>
 
 - 👯 I’m looking to collaborate on **full stack web development projects!**
 
