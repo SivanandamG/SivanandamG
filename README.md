@@ -5,7 +5,7 @@
 
 ### hi, i'm [Sivanandam Gorantla](), a passionate full stack web developer.
 
-- 🌱 I’m currently working as software engineer at snapdeal **<a href=""> <img alt="Spring" src="https://img.shields.io/badge/Spring-%234ea94b.svg?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+- 🌱 I’m currently working as software engineer at snapdeal **<a href=""> <img alt="Snapdeal" src="https://media.licdn.com/dms/image/C4D0BAQF5eh0ULHTkLQ/company-logo_200_200/0/1631316030383?e=1727913600&v=beta&t=KwKdWn8oalILadFEzosI9lUdPViCwbK2VkTD46xemss"/></a>
 
 - 👯 I’m looking to collaborate on **full stack web development projects!**
 
