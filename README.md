@@ -3,7 +3,7 @@
 <!-- ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> -->
 
 
-### hi, i'm [Sivanandam Gorantla](), a passionate full stack web developer.
+### hi, i'm [Sivanandam Gorantla](), a passionate Backend developer (Java).
 
 - 🌱 I’m currently working as software engineer at snapdeal
 
