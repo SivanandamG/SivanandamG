@@ -26,7 +26,7 @@
 [![](https://img.shields.io/badge/-Sivanandam%20Gorantla-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sivanandam-gorantla-878a511b7/)
 [![](https://img.shields.io/badge/-gorantlasivanandam@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gorantlasivanandam@gmail.com)](mailto:gorantlasivanandam@gmail.com)
 [![](https://img.shields.io/badge/-SivanandamG-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SivanandamG)
-[![](https://img.shields.io/badge/-Sivanan17585739-%237289DA.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@sivanandam_G1)
+[![](https://img.shields.io/badge/-Sivanandam-%237289DA.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@sivanandam_G1)
 
 <!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  -->
