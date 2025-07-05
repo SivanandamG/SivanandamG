@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/93380641/152645546-98b08667-e823-4417-9fb7-59a7fbfdc1a3.gif" width="40%" height="auto"  />
+<img align="right" alt="GIF" src="https://ibb.co/sv1pX7vG" width="1000%" height="auto"  />
 
 <!-- ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> -->
 
